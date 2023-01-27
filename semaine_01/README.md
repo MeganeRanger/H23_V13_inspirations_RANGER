@@ -4,3 +4,4 @@
 Mes intérêts dans le domaine du multimédia est l'Animation 3D, le Design ainsi que les jeux vidéos. 
 
 ## Autres intérêts ou aspects de ma personnalité
+J'adore dessiner et de créer mes propres histoires.

@@ -5,4 +5,4 @@
 ![994a92f3-d4df-48bd-9997-349b6ea37571](https://user-images.githubusercontent.com/112189526/219700579-3bbd26b7-95ae-46a3-b842-4cfc9ccf7dbb.jpg)
 
 ### Type d'exposition
-C'est une exposition intérieur d'une durée limititer 
+C'est une exposition d'art numérique et immersif intérieur temporaire qui a eu lieu du 1er Décembre 2022 au 5 Février 2023.

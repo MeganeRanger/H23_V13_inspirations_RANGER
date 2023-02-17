@@ -8,3 +8,5 @@
 C'est une exposition d'art numérique et immersif intérieur temporaire qui a eu lieu du 1er Décembre 2022 au 5 Février 2023.
 
 J'ai été visitée l'exposition de BIAN le 3 Février 2023.
+
+# Performance Robotique 

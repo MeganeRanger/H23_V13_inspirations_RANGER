@@ -12,7 +12,7 @@ J'ai été visitée l'exposition de BIAN le 3 Février 2023.
 # Performance Robotique (Copacabana Machine Sex)
 ![aa28f855-2982-4158-9622-badf00a650f7](https://user-images.githubusercontent.com/112189526/219706924-a528eec7-1c25-42d7-a75b-19ac5057a34a.jpg)
 
-## Nom de l'artiste: Bill Vorn
+### Nom de l'artiste: Bill Vorn
 Année de création: Années 2010
 
 ## Description de l'Oeuvre

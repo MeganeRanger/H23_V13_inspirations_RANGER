@@ -36,7 +36,7 @@ Source: Le site internet de l'artiste Bill Vorn
 J'ai beaucoup aimé le merveilleux spectacle de Bill Vorn, car c'était l'exposition la plus attirante à regarder et la plus captivante. J'ai aimé comment les robot fonctionnait avec des codes et comment il était confectionner. 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Le seul point négatif que j'aurais à dire serai de perfectionner le fonctionnement de l'exposition il y avait des problèmes avec les boules de disco en arrière de l'exposition qui ne marchait pas. 
+Le seul point négatif que j'aurais à dire serai de perfectionner le fonctionnement de l'exposition, car il y avait des problèmes avec les boules de disco en arrière de l'exposition qui ne marchait pas et d'autre problème technique mineur. Se que je veux en venir ses que pour le futur ses que je m'assurai de vérifier si mon exposition ou mon oeuvre n'est pas de défaut, car en étant une visiteuse j'aurais aimé voir l'exposition en action sans avoir de défaut pour avoir une belle expérience mais en général c'étais très bien. 
 
 ## Références
  Le site internet de Bill Vorn: https://billvorn.concordia.ca/robography/copacabanaF.html

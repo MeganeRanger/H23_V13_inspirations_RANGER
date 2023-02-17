@@ -23,3 +23,5 @@ La performance Copacabana peut être décrite comme une sorte de mini spectacle 
 Le thème “machine sex” n’est pas abordé au sens littéral ni au sens strict mais d’une façon plus subtile, dans un cadre où les machines ne sont pas présentées en plein ébat sexuel mais plutôt dans une entreprise de séduction entre elles et avec les spectateurs. Même si nous parlons d’un spectacle de machines du genre burlesque (au sens anglais du terme), notre but n’est pas de créer un spectacle déviant ou satyrique, mais bien d’évoquer la sexualité humaine de manière singulière principalement à travers des comportements machiniques inattendus, bizarres et surprenants présentés dans le contexte familier du cabaret / music hall.
 
 Source: Le site internet de l'artiste Bill Vorn: https://billvorn.concordia.ca/robography/copacabanaF.html
+
+### Mise en espace 

@@ -37,10 +37,12 @@ C'est oeuvre doit être transporter au complet dans une camion bien protéger po
 ## Éléments nécessaires à la mise en exposition
 ![robot_danse_5](https://user-images.githubusercontent.com/112189526/220985090-0c7d91b5-4f03-40f2-b090-e9a3a835804a.jpeg)
 
+Pour l'installation de l'oeuvre le musée la exposé dans une pièce sombre pour éviter de voir le moins de fil possible.
 
 ## Expérience vécue
 ![robot_danse_6](https://user-images.githubusercontent.com/112189526/220985133-6926b6ee-1d93-47bc-bde5-394126f74c1f.jpg)
 
+Pour avoir une expérience de pleine capaciter vous devez vous asseoir devant l'exposition et regarder devant vous. Personnellement, mon expérience était incroyable c'était capativant et intéressant à regarder pendant 15 minutes j'ai eu une très belle expérience.
 
 ## Ce qui vous a plu, vous a donné des idées
 J'ai beaucoup aimé le merveilleux spectacle de Bill Vorn, car c'était l'exposition la plus attirante à regarder et la plus captivante. J'ai aimé comment les robot fonctionnait avec des codes et comment il était confectionner. 

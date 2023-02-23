@@ -27,7 +27,7 @@ Source: Le site internet de l'artiste Bill Vorn
 ## Mise en espace 
 ![robot_danse_5](https://user-images.githubusercontent.com/112189526/220981736-80eb6678-7ac8-457e-b346-d08625a258e5.jpeg)
 
-Cinq robots s’apprêtent à danser le french-cancan, sous les lumières fluorescentes et les boules en miroir d’une discothèque.
+Cinq robots s’apprêtent à danser le french-cancan, sous les lumières fluorescentes et les boules en miroir d’une discothèque. C'est une oeuvre transporter dans un camion bien protéger pour la transporter tout en entier pour ne pas avoir de problème technique.
 
 ## Composantes et techniques
 

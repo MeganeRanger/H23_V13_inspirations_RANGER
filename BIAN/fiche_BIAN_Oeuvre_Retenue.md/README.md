@@ -30,6 +30,11 @@ Source: Le site internet de l'artiste Bill Vorn
 Cinq robots s’apprêtent à danser le french-cancan, sous les lumières fluorescentes et les boules en miroir d’une discothèque. C'est une oeuvre transporter dans un camion bien protéger pour la transporter tout en entier pour ne pas avoir de problème technique.
 
 ## Composantes et techniques
+![robot_danse_6](https://user-images.githubusercontent.com/112189526/220983802-111b88a2-d720-4fe3-a4fa-c7a262d730fa.jpg)
+
+
+![robot_danse_4](https://user-images.githubusercontent.com/112189526/220983690-4b785ed6-5073-4795-b4d8-4b5c0041eef5.jpeg)
+
 
 ## Éléments nécessaires à la mise en exposition
 

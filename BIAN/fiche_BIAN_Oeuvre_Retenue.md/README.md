@@ -25,6 +25,9 @@ Le thème “machine sex” n’est pas abordé au sens littéral ni au sens str
 Source: Le site internet de l'artiste Bill Vorn
 
 ## Mise en espace 
+![robot_danse_5](https://user-images.githubusercontent.com/112189526/220981736-80eb6678-7ac8-457e-b346-d08625a258e5.jpeg)
+
+
 
 ## Composantes et techniques
 

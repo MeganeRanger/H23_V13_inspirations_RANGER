@@ -35,6 +35,7 @@ Cinq robots s’apprêtent à danser le french-cancan, sous les lumières fluore
 
 ![robot_danse_4](https://user-images.githubusercontent.com/112189526/220983690-4b785ed6-5073-4795-b4d8-4b5c0041eef5.jpeg)
 
+C'est oeuvre doit être transporter au complet dans une camion bien protéger pour ne pas avoir de defaut technique sur les robots.
 
 ## Éléments nécessaires à la mise en exposition
 

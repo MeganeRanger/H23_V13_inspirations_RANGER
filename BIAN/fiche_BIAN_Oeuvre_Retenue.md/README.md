@@ -35,8 +35,12 @@ Cinq robots s’apprêtent à danser le french-cancan, sous les lumières fluore
 C'est oeuvre doit être transporter au complet dans une camion bien protéger pour ne pas avoir de defaut technique sur les robots.
 
 ## Éléments nécessaires à la mise en exposition
+![robot_danse_5](https://user-images.githubusercontent.com/112189526/220985090-0c7d91b5-4f03-40f2-b090-e9a3a835804a.jpeg)
+
 
 ## Expérience vécue
+![robot_danse_6](https://user-images.githubusercontent.com/112189526/220985133-6926b6ee-1d93-47bc-bde5-394126f74c1f.jpg)
+
 
 ## Ce qui vous a plu, vous a donné des idées
 J'ai beaucoup aimé le merveilleux spectacle de Bill Vorn, car c'était l'exposition la plus attirante à regarder et la plus captivante. J'ai aimé comment les robot fonctionnait avec des codes et comment il était confectionner. 

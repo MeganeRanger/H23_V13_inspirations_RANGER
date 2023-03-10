@@ -2,8 +2,19 @@
 
 Crédit: Les créatrices du projet 
 
-## Créatrices 
-Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel. 
+# Créatrices et leur rôle
+
+### Florence Lapierre ( Programmation )
+- Création du Site Web
+- Aider avec Max patch et Madmapper
+- Installation de l'équipement dans l'espace physique
+
+### Natacha Abdallah
+- Création des paysages sonores
+- Création des bruitages de la faune et de la flore marine
+- Intégration des sons dans l'intéractivité
+- Aider avec l'installation d'équipements
+- Tracy Gua, Maria Laura Coronel. 
 
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" src=media/echomarine_banniere_page_projet.jpeg</p>
+<img width="1000" src=/media/echomarine_banniere_page_projet.jpeg</p>
 Crédit: Les créatrices du projet 
 
 ## Créatrices 

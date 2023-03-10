@@ -1,4 +1,5 @@
 ![](media/echomarine_banniere_page_projet.jpeg)
+
 Crédit: Les créatrices du projet 
 
 

@@ -28,7 +28,8 @@ Dans cette installation nous allons retrouver les équipements suivant:
 - 6 bruitages d'animaux 
 - 1 bruitage d'océan 
 - 6 vidéos animation d'arrière plan
-- 
+- 1 vidéo d'animation d'arrière plan
+- 6 spritesheets pour le site web
 
 
 

@@ -2,8 +2,6 @@
 
 Crédit: Les créatrices du projet 
 
-
-
 ## Créatrices 
 Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel. 
 

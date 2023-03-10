@@ -22,7 +22,7 @@ image ici
 
 # Le contenu multimédia 
 
-### Inventaire du matériel multimédia 
+### Inventaire du matériel nécessaire 
 Dans cette installation nous allons retrouver les équipements suivant: 
 - 2 paysages sonores
 - 6 bruitages d'animaux 

@@ -4,12 +4,12 @@ Crédit: Les créatrices du projet
 
 # Créatrices et leur rôle
 
-### Florence Lapierre ( Programmation )
+### Florence Lapierre - Programmation 
 - Création du Site Web
 - Aider avec Max patch et Madmapper
 - Installation de l'équipement dans l'espace physique
 
-### Natacha Abdallah
+### Natacha Abdallah - Son
 - Création des paysages sonores
 - Création des bruitages de la faune et de la flore marine
 - Intégration des sons dans l'intéractivité

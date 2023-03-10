@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1000" src=<//Mycelium/Echomarine/media/echomarine_banniere_page_projet.jpeg"></p>
+<img width="1000" src=https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Echomarine/media/echomarine_banniere_page_projet.jpeg</p>
 Crédit: Les créatrices 
 
 ## Créatrices 

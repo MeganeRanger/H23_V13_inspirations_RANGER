@@ -16,7 +16,16 @@ Crédit: Les créatrices du projet
 - Aider avec l'installation d'équipements
 - Tracy Gua, Maria Laura Coronel. 
 
+### Tracy Gua - Coordination générale et animation
+- Création des animaux et des plantes dans illustrator
+- Animation des éléments dans After Effects
+- Création des spritesheets pour le site web
+- Aider avec l'installation d'équipements
 
+### Maria Laura Coronel - Son et programmation
+- Création de sons
+- Création du Max patch et du projet Madmapper
+- Installation de l'équipement dans l'espace physique
 
 # Concept 
 

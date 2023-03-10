@@ -1,8 +1,7 @@
 <p align="center">
-<img src=/media/echomarine_banniere_page_projet.jpeg</p>
+![photo bannière](media/echomarine_banniere_page_projet.jpeg)
 Crédit: Les créatrices du projet 
 
-![photo bannière](media/echomarine_banniere_page_projet.jpeg)
 
 
 ## Créatrices 

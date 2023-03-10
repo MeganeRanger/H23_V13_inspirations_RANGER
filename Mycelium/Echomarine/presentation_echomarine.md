@@ -16,7 +16,7 @@ Le lien de ce projet en lien avec le thême de Mycelium est la nature et les ani
 L'intention de ce projet est de nous sensibiliser aux animaux marins en voie de disparition ou en danger.
 
 ### Les inspirations
-image ici
+IMAGE ICI 
 
 
 
@@ -31,5 +31,6 @@ Dans cette installation nous allons retrouver les équipements suivant:
 - 1 vidéo d'animation d'arrière plan
 - 6 spritesheets pour le site web
 
+IMAGE DE L'INSTALLATION 
 
 

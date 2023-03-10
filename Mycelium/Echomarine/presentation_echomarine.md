@@ -37,29 +37,29 @@ IMAGE DE L'INSTALLATION
 Pour cette installation les créatrices de se projet ont fait une planification technique dont: 
 Audio
 
-4 hauts-parleur actifs 4" (fourni par le Cegep)
-1 Carte de son avec 8in et 8out (fourni par le Cegep)
-Vidéo
+-4 hauts-parleur actifs 4" (fourni par le Cegep)
+-1 Carte de son avec 8in et 8out (fourni par le Cegep)
+-Vidéo
 
-3 projecteurs vidéo (fourni par le Cegep) lentille short throw(ratio 0,5) 3000 lumens
-Drap blanc pour projection
-Web
+-3 projecteurs vidéo (fourni par le Cegep) lentille short throw(ratio 0,5) 3000 lumens
+-Drap blanc pour projection
+-Web
 
-Tablette tactile
-Ordinateur sur Chariot pour rouler les logiciels (fourni par le cégep)
-Électricité
+-Tablette tactile
+-Ordinateur sur Chariot pour rouler les logiciels (fourni par le cégep)
+-Électricité
 
-8 cordon IEC (pour l'alimentation des haut-parleurs)
-Détection
+-8 cordon IEC (pour l'alimentation des haut-parleurs)
+-Détection
 
-Kinect (fourni par le Cegep)
-Rasberry Pi
-Lumière
+-Kinect (fourni par le Cegep)
+-Rasberry Pi
+-Lumière
 
-Lumière RGB DMX (fourni par le Cegep)
-Autre
+-Lumière RGB DMX (fourni par le Cegep)
+-Autre
 
-Trépied pour tablette
-Affiche
-Ordinateur portable pour l’installation (fourni par le cégep)
-Commutateur Ethernet (Switch)
+-Trépied pour tablette
+-Affiche
+-Ordinateur portable pour l’installation (fourni par le cégep)
+-Commutateur Ethernet (Switch)

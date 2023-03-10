@@ -42,3 +42,7 @@
 - Installation des leds et champignons;
 - Coordination de la création et de l'intégration des champignons;
 - Programmation des relais de connections Arduino et PureData;
+
+# Concept
+## Intention
+Les intentions de ce projet est d'avoir un univers féerique, rassembler autour d'une sculpture représentant la dualité entre la technologie et la nature.

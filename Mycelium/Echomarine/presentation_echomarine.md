@@ -60,7 +60,8 @@ Audio
 ### Lumière
 
 - Lumière RGB DMX (fourni par le Cegep)
-- Autre
+ 
+### Autre
 
 - Trépied pour tablette
 - Affiche

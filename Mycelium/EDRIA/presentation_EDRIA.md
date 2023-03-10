@@ -46,3 +46,7 @@
 # Concept
 ## Intention
 Les intentions de ce projet est d'avoir un univers féerique, rassembler autour d'une sculpture représentant la dualité entre la technologie et la nature.
+
+## Le lien avec le thême Mycelium 
+Le lien de se projet avec le thême Mycelium est la technologie ainsi que la nature. 
+

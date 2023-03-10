@@ -1,5 +1,5 @@
-<p align="center">
-![photo bannière](media/echomarine_banniere_page_projet.jpeg)
+
+![photo bannière](media/echomarine_banniere_page_projet.jpeg) width: "1000">
 Crédit: Les créatrices du projet 
 
 

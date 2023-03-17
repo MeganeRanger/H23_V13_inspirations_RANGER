@@ -4,6 +4,6 @@
 Le lien de ce projet en lien avec le thême de Mycelium est la nature et les animaux marins.
 
 ### Le schema de l'installation prevue 
-
+![scenarimage_de_lexperience_01.png]
 
 

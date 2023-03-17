@@ -10,3 +10,4 @@
 ### La preproduction de chaque projets ainsi que: 
 - Le scenarimage de chaque projets
 - La plantation de chaque projets
+- Le lien avec le theme de Mycelium

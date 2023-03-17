@@ -1,2 +1,5 @@
-# Dans ce fichier il y aura les informations suivantes: 
-- Les créat(eurs/rices) et leurs rôle
+# Dans le dossier presentation_edria vous aller retrouver les informations suivantes: 
+
+- Le nom des creat(eurs trices) 
+- Le lien avec le theme de Mycelium 
+- Le schema de l'installation prevue

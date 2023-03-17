@@ -1,7 +1,3 @@
-![](media/echomarine_banniere_page_projet.jpeg)
-
-Crédit: Les créatrices du projet 
-
 # Créatrices et leur rôle
 
 ### Florence Lapierre - Programmation 

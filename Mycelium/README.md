@@ -1,4 +1,4 @@
-# Dans le dossier Mycelium on va vous presenter les projets des etudiants de presentation de 3 annee en TIM et ce dossier va contenirles inforrmations suivantes: 
+# Dans le dossier Mycelium on va vous presenter les projets des etudiants de 3 annee en TIM et ce dossier va contenirles inforrmations suivantes: 
 
 ### Le titre de tous les projets 
 - Echomarine 

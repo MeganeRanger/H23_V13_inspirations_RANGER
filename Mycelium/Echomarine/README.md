@@ -1,2 +1,3 @@
-# Echomarine
-Les creatrices: Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
+# Dans le dossier presentation_echomarine vous aller retrouver les informations suivantes: 
+- Le nom des creatrices 
+-

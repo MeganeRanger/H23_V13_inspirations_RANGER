@@ -6,3 +6,5 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 
 ### Le lien avec le thême Mycélium 
 Le lien de ce projet est la nature avec un aspect féerique. 
+
+# L'installation en cours dans le studio 

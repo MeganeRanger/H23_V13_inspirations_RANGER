@@ -7,7 +7,7 @@ Abdanor Yara
 ### Le lien avec le thême Mycélium
 
 # L'installation en cours dans le studio
-
+![installation en cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Zodie_Gal/media/installation_en_cours.png)
 
 # Le schéma de l'installation prévue
 

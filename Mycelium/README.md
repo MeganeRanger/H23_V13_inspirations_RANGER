@@ -1,4 +1,4 @@
-# Dans le dossier Mycelium on va vous presenter les projets des etudiants de 3 annee en TIM et ce dossier va contenire les inforrmations suivantes: 
+# Dans le dossier Mycelium on va vous présenter les projets des étudiants de 3 année en TIM et ce dossier va contenire les inforrmations suivantes: 
 
 ### Le titre de tous les projets 
 - Echomarine 
@@ -7,7 +7,7 @@
 - Nexum
 - Zodie-Gal
 
-### La preproduction de chaque projets ainsi que: 
+### La préproduction de chaque projets ainsi que: 
 - Le scenarimage de chaque projets
 - La plantation de chaque projets
 - Le lien avec le theme de Mycelium

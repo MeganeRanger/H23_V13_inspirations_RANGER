@@ -8,3 +8,4 @@
 ### Le lien avec le thême Mycélium 
 Le thême de ce projet en lien avec le thême Mycélium est l'environnement et la nature. 
 
+## L'installation en cours dans le studios

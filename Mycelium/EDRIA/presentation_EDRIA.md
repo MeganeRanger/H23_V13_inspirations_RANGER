@@ -9,3 +9,5 @@ Le lien de se projet avec le thême Mycelium est la technologie ainsi que la nat
 
 # L'installation en cours dans le studio
 ![installation en cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/EDRIA/media/installation_en_cours_01.jpg)
+
+![installation en cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/EDRIA/media/installation_en_cours_02.JPG)

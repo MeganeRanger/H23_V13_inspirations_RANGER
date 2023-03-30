@@ -16,4 +16,5 @@ Le lien de ce projet en lien avec le thême de Mycelium est la nature et les ani
 
 
 # Le schéma de l'installation prévue
+![schema installation](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Echomarine/media/schema_installation.png)
 

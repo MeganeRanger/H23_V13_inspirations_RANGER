@@ -29,3 +29,7 @@ Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/ind
 Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
 # Le schéma de l'installation prévue
+
+![installation prevue](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/installation_prevue.png)
+
+Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html

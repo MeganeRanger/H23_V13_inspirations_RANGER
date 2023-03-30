@@ -3,9 +3,7 @@
 
 ### Voici les créateur(trices) de ce projet
 
-![50x](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/photo_eloise.png)
-
-ÉloÏse Gagné
+ÉloÏse Gagné, Skyla Stimphil, Michaël Simard, Pénélope Morrisson
 
 ### Le lien avec le thême Mycélium 
 Le thême de ce projet en lien avec le thême Mycélium est l'environnement et la nature. 

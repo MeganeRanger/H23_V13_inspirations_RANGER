@@ -3,7 +3,7 @@
 
 ### Voici les créateur(trices) de ce projet
 
-![100x](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/photo_eloise.png)
+![50x](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/photo_eloise.png)
 
 ÉloÏse Gagné
 

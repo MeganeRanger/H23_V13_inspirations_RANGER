@@ -33,3 +33,7 @@ Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/ind
 ![installation prevue](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/installation_prevue.png)
 
 Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+
+![schema branchement](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/schema_branchement.png)
+
+Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html

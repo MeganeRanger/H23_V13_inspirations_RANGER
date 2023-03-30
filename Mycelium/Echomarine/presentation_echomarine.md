@@ -7,4 +7,6 @@ Le lien de ce projet en lien avec le thême de Mycelium est la nature et les ani
 
 # L'insatallation en cours dans le studio
 
+![installation en cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Echomarine/media/installation_en_cours_01.png)
+
 

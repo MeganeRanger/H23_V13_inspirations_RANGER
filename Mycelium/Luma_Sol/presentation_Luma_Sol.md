@@ -10,7 +10,7 @@ Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/ind
 ### Le lien avec le thême Mycélium 
 Le thême de ce projet en lien avec le thême Mycélium est l'environnement et la nature. 
 
-## L'installation en cours dans le studios
+# L'installation en cours dans le studios
 
 ![installation_en_cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/installation_en_cours_01.JPG)
 

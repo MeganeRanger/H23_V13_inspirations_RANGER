@@ -9,6 +9,6 @@
 
 ### La préproduction de chaque projets ainsi que: 
 - Le nom des créateur(rices) de chacun des projets
-- Le lien avec le theme de Mycelium
+- Le lien avec le thême de Mycélium
 - L'installation en cours dans les studios
 - Le schéma de l'installation prévue

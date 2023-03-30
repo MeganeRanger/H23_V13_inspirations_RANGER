@@ -16,4 +16,6 @@ Le lien de ce projet est la nature avec un aspect féerique.
 
 # Le schéma de l'installation prévue 
 
+![schema installation](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Boucler_la%20_boucle/media/schema_installation_02.png)
+
 ![schema installation](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Boucler_la%20_boucle/media/schema_installation_01.png)

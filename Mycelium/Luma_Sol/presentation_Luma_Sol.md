@@ -20,3 +20,6 @@ Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/ind
 
 Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
+![installation en cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/installation_en_cours_03.JPG)
+
+Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html

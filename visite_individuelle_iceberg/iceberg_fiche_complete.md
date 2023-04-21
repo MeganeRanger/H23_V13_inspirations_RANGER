@@ -1,33 +1,33 @@
 # Iceberg
 
-### Lieu mise en exposition
+## Lieu mise en exposition
 
-### Type d'exposition
+## Type d'exposition
 
-### Date de ma visiste
+## Date de ma visiste
 
-### Titre de l'oeuvre ou du dispositif
+## Titre de l'oeuvre ou du dispositif
 
-### Nom de l'artiste ou de la firme 
+## Nom de l'artiste ou de la firme 
 
-### Année de réalisation
+## Année de réalisation
 
-### Description de l'oeuvre ou du dispositif
+## Description de l'oeuvre ou du dispositif
 
-### Type d'installation 
+## Type d'installation 
 
-### Fonction du dispositif multimédia
+## Fonction du dispositif multimédia
 
-### Mise en espace 
+## Mise en espace 
 
-### Composantes et techniques
+## Composantes et techniques
 
-### Éléments nécessaires a la mise en exposition
+## Éléments nécessaires a la mise en exposition
 
-### Expérience vécue
+## Expérience vécue
 
-### Ce qui ma plu 
+## Ce qui ma plu 
 
-### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-### Références
+## Références

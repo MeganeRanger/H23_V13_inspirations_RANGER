@@ -1,7 +1,7 @@
 # Luma Sol
 ![banniere_page_projet](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/banniere_page_luma_sol_jpg.png)
 
-Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+[Source de l'image](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 ### Voici les créateur(trices) de ce projet
 
@@ -14,26 +14,26 @@ Le thême de ce projet en lien avec le thême Mycélium est l'environnement et l
 
 ![installation_en_cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/installation_en_cours_01.JPG)
 
-Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+[Source de l'image](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 ![installation_en_cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/installation_en_cours_02.JPG)
 
-Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+[Source de l'image](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 ![installation en cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/installation_en_cours_03.JPG)
 
-Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+[Source de l'image](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 ![installation en cours](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/installation_en_cours_4.JPG)
 
-Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+[Source de l'image](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 # Le schéma de l'installation prévue
 
 ![installation prevue](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/installation_prevue.png)
 
-Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+[Source de l'image](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 ![schema branchement](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/Mycelium/Luma_Sol/media/schema_branchement.png)
 
-Source de l'image: https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+[Source de l'image](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)

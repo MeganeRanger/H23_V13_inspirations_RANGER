@@ -1,4 +1,4 @@
-# Luminothérapie
+# Luminothérapie - Iceberg
 
 ## Lieu mise en exposition
 

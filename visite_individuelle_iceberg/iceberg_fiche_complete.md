@@ -5,7 +5,7 @@
 ## Type d'exposition
 
 ## Date de ma visiste
-
+Le 4 mars 2023
 ## Titre de l'oeuvre ou du dispositif
 
 ## Nom de l'artiste ou de la firme 

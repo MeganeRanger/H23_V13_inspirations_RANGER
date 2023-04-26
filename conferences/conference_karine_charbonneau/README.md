@@ -1,6 +1,6 @@
 # Conférence de Karine Charbonneau - 28 mars 2023
 
-Tout d'abord, Karine Charbonneau est cheffe des expositions et registraire depuis 15 ans chez Studio Antimodular. Dans sa conférence, elle explique la logique de gestion de collection et ainsi de la mise en exposition de la production d'un artiste en art numérique. Je vais vous faire part des grandes lignes de la conférence de Karine en vous résumant les éléments importants qu'elle a mentionner durant sa conférence.
+Tout d'abord, Karine Charbonneau est cheffe des expositions et registraire depuis 15 ans chez [Studio Antimodular]. Dans sa conférence, elle explique la logique de gestion de collection et ainsi de la mise en exposition de la production d'un artiste en art numérique. Je vais vous faire part des grandes lignes de la conférence de Karine en vous résumant les éléments importants qu'elle a mentionner durant sa conférence.
 
 Premièrement, dans la conférence de Karine Charbonneau, elle expliquait les grandes lignes importantes pour avoir une meilleure logique de gestion ainsi qu'à la mise en exposition de la production d'un artiste en art numérique. Par exemple, elle expliquait que pour avoir une bonne logique de gestion de collection, il faut tout documenter le processus de production de l'œuvre du début à la fin pour pouvoir créer le manuel de documentation. Sans ce manuel de documentation, aucune exposition ne peut être terminée sans avoir le manuel, donc c'est pour cela qu'il est très important de tout documenter vos projets.
 

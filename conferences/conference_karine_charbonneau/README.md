@@ -6,3 +6,5 @@ Premièrement, dans la conférence de Karine Charbonneau elle expliquait les gra
 
 
 Deuxièmement, Karine Charbonneau mentionne dans sa conférence l'importance de la mise en exposition de la production d'un artiste en art numérique. Selon Karine, pour un artiste il est très important de soutenir son processus de créativité du début jusqu'à la fin et d'avoir une bonne structure de vos projets. Dans la mise en exposition, il faut s'assurer de 5 secteurs de travail comme la collections et expositions muséales, si ses une expositions immersives, si ses une art public temporaire, si ses une art public permanente et si c'est un parcours se qu'on appel le "Art Walk". Par la suite, un département qui est important est le département des expositions, leurs travaillent est de communiquer avec les galeries, les musées, des collectionneurs pour pouvoir analyser les possibiliter d'exposition selon les intentions, le budget et le temps.
+
+Pour conclure,

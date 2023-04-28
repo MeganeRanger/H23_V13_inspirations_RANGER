@@ -38,6 +38,7 @@ C'est une installation interactive.
 
 ## Fonction du dispositif multimédia
 Le fonctionnment du dispositf est de démontrer le parcours d'un Iceberg du nord vers le sud de la banquise jusqu'à la fonte complète près de la terre ferme en le représentant avec des ambiances sonores différentes. Losrque les visiteurs marche dans le parcours les lumières ainsi que l'ambiance sonore se différencie selon l'étape de la fonte de la banquise.
+
 [Vidéo explicative](https://youtu.be/evwQKQMVA3w)
 
 ## Mise en espace 

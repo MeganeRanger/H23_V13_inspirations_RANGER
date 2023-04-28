@@ -1,5 +1,5 @@
 # Luminothérapie - Iceberg
-![photo](media/iceberg_visite_27.jpeg)
+![photo](media/iceberg-c-martine-doyon-pqds-2-670x450.jpeg)
 ## Lieu mise en exposition
 Rue Ste-Catherine. 150 Sainte-Catherine O, Montréal, QC Métro : Place-des-Arts.
 

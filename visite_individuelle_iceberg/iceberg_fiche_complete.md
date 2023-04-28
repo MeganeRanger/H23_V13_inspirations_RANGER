@@ -31,6 +31,7 @@ Les notes et la lumière produites voyagent d’un bout à l’autre de ce corri
 [Article](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/#)
 
 ## Type d'installation 
+C'est une installation temporaire qui revient à chaque année pour les festivités d'hiver.
 
 ## Fonction du dispositif multimédia
 

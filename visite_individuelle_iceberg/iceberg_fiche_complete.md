@@ -1,5 +1,5 @@
 # Luminothérapie - Iceberg
-![photo](main/visite_individuelle_iceberg/media/iceberg_visite_27.jpeg)
+![photo](media/iceberg_visite_27.jpeg)
 ## Lieu mise en exposition
 Rue Ste-Catherine. 150 Sainte-Catherine O, Montréal, QC Métro : Place-des-Arts.
 

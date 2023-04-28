@@ -19,7 +19,7 @@ Iceberg
 - Conception des modules interactifs : Philippe Jean
 
 ## Année de réalisation
-- 2010
+L'installation à eu sa première apparence en 2010. 
  
 ## Description de l'oeuvre ou du dispositif
 «Monuments de glace millénaires que le temps et les éléments ont façonnés, les icebergs émettent des sons particuliers. L’eau qui s’infiltre à l’intérieur des crevasses et des fissures les fait résonner comme de gigantesques tuyaux d’orgue dont les tonalités se modulent et se transforment tout au long de leur fonte. À l’image de cet instrument de musique monumental, Iceberg se compose d’une série d’arches métalliques lumineuses qui diffusent des sons particuliers. Organisées en tunnel, ces arches vous invitent à vous y engouffrer pour écouter l’orgue géant et même en jouer.

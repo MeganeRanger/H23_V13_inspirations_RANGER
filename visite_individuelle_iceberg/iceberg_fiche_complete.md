@@ -24,9 +24,10 @@ Conception des modules interactifs : Philippe Jean
 2010
  
 ## Description de l'oeuvre ou du dispositif
-«Né en 2010, à l’initiative du Partenariat du Quartier des spectacles, Luminothérapie a une double vocation. Son objectif est autant d’offrir aux Montréalais une animation hivernale originale et interactive dans le Quartier des spectacles, que de promouvoir Montréal comme ville de design, et stimuler la créativité dans le domaine des installations urbaines et de l’art numérique.
+«Monuments de glace millénaires que le temps et les éléments ont façonnés, les icebergs émettent des sons particuliers. L’eau qui s’infiltre à l’intérieur des crevasses et des fissures les fait résonner comme de gigantesques tuyaux d’orgue dont les tonalités se modulent et se transforment tout au long de leur fonte. À l’image de cet instrument de musique monumental, Iceberg se compose d’une série d’arches métalliques lumineuses qui diffusent des sons particuliers. Organisées en tunnel, ces arches vous invitent à vous y engouffrer pour écouter l’orgue géant et même en jouer.
 
-Chaque année, un concours, mené par le Partenariat du Quartier des spectacles, invite des équipes multidisciplinaires à se constituer pour l’occasion, afin d’imaginer une installation et des vidéoprojections faisant appel au design urbain et à toutes les disciplines artistiques. Par cette approche, l’évènement non seulement encourage la créativité locale, mais favorise aussi l'émergence de nouvelles pratiques artistiques.»
+Les notes et la lumière produites voyagent d’un bout à l’autre de ce corridor musical. D’une ambiance sonore et d’une lumière qui évoquent la pureté boréale, Iceberg se transforme en votre présence. L’activité humaine « réchauffe » ces monuments de glace — véritables baromètres du climat mondial — et transforme leur nature originelle en une symphonie visuelle et sonore. Allez-y, essayez-le !»
+[Article](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/#)
 
 ## Type d'installation 
 

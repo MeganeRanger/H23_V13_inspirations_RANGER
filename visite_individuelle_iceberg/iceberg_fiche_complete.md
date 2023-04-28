@@ -1,7 +1,7 @@
 # Luminothérapie - Iceberg
 ![photo](media/iceberg-c-martine-doyon-pqds-2-670x450.jpeg)
 
-[Photo](https://s3.ca-central-1.amazonaws.com/files.quartierdesspectacles.com/les-prod-du-pqds/iceberg-c-martine-doyon-pqds-2-670x450.jpg): Martine Doyon
+[Photo](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/#): Martine Doyon
 
 ## Lieu mise en exposition
 Rue Ste-Catherine. 150 Sainte-Catherine O, Montréal, QC Métro : Place-des-Arts.

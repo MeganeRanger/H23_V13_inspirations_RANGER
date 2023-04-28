@@ -13,8 +13,11 @@ Iceberg
 
 ## Nom de l'artiste ou de la firme 
 Direction artistique, conception lumière et réalisation : Félix Dagenais et Louis-Xavier Gagnon-Lebrun 
+
 Conception architecturale : APPAREIL architecture
+
 Conception sonore : Jean-Sébastien Côté 
+
 Conception des modules interactifs : Philippe Jean
 
 ## Année de réalisation

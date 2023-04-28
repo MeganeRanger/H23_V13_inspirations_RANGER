@@ -4,7 +4,7 @@
 [Photo](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/#): Martine Doyon
 
 ## Lieu mise en exposition
-![photo](media/iceberg_visite_28.jpg)
+![photo](media/iceberg_visite_28.jpg | width=100%)
 
 Rue Ste-Catherine. 150 Sainte-Catherine O, Montréal, QC Métro : Place-des-Arts.
 

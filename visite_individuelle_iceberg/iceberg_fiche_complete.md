@@ -4,6 +4,7 @@
 Rue Ste-Catherine. 150 Sainte-Catherine O, Montréal, QC Métro : Place-des-Arts.
 
 ## Type d'exposition
+C'est une installation temporaire qui revient à chaque année pour les festivités d'hiver.
 
 ## Date de ma visiste
 Le 4 mars 2023
@@ -28,7 +29,7 @@ Les notes et la lumière produites voyagent d’un bout à l’autre de ce corri
 [Article](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/#)
 
 ## Type d'installation 
-C'est une installation temporaire qui revient à chaque année pour les festivités d'hiver.
+
 
 ## Fonction du dispositif multimédia
 
@@ -43,5 +44,6 @@ C'est une installation temporaire qui revient à chaque année pour les festivit
 ## Ce qui ma plu 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+Le seule petit B mole serait la neige, car avec l'accumulation de la neige nous avions peur de se cogner la tête sur l'Iceberg donc selon moi pour un projet futur je m'assurais de bien déneiger l'espace pour avoir une meilleure expérience.
 
 ## Références

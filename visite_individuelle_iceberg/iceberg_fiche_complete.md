@@ -9,7 +9,7 @@
 Rue Ste-Catherine. 150 Sainte-Catherine O, Montréal, QC Métro : Place-des-Arts.
 
 ## Type d'exposition
-C'est une installation temporaire qui revient à chaque année pour les festivités d'hiver.
+C'est une installation temporaire qui revient à chaque année pour les festivités d'hiver uniquement.
 
 ## Date de ma visiste
 Le 4 mars 2023
@@ -48,6 +48,7 @@ C'est une installation interactive.
 ## Expérience vécue
 
 ## Ce qui ma plu 
+J'ai beaucoup apprécié l'expérience, mais se que je trouve vraiment intéressant ses la façon dont ils on interpréter la fonte d'une banquise avec de la lumière et des ambiances sonores différentes pour démontrer les étapes de la fonte de la banquise.
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 Le seule petit B mole serait la neige, car avec l'accumulation de la neige nous avions peur de se cogner la tête sur l'Iceberg donc selon moi pour un projet futur je m'assurais de bien déneiger l'espace pour avoir une meilleure expérience.

@@ -47,6 +47,9 @@ Le fonctionnment du dispositf est de démontrer le parcours d'un Iceberg du nord
 Le dispositif est située à l'extérieur
 
 ## Composantes et techniques
+![](media/iceberg_cache_file.jpeg)
+
+Pour les composantes techniques ils ont utilisées des caches-fil en métal pour ne pas distraire l'attention vers les fils et aussi pour les protéger de la neige.
 
 ## Éléments nécessaires a la mise en exposition
 

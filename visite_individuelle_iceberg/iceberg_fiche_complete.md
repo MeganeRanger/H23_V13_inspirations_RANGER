@@ -16,6 +16,7 @@ Le 4 mars 2023
 
 ## Titre de l'oeuvre ou du dispositif
 Iceberg
+![](media/iceberg_vue_ensemble.jpeg)
 
 ## Nom de l'artiste ou de la firme 
 - Direction artistique, conception lumière et réalisation : Félix Dagenais et Louis-Xavier Gagnon-Lebrun 

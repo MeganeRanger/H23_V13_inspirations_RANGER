@@ -61,6 +61,8 @@ Pour les composantes techniques ils ont utilisées des caches-fil en métal pour
 ## Expérience vécue
 ![](media/iceberg_marche.jpeg)
 
+[Source de l'image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.montrealenlumiere.com%2FProgrammation%2FActivite%2FMEL-9510&psig=AOvVaw24YjMcnPokEoKInJ6YIAR_&ust=1682815664953000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLDt5oHvzf4CFQAAAAAdAAAAABAD)
+
 Les visiteurs sont simplement attendu à marcher dans l'exposition Iceberg du côter qu'il désire pour vivre une expérience hors du commun et coloré. Les visiteurs n'ont aucune interactiviter à faire avec l'oeuvre a pars marcher. 
 
 ## Ce qui ma plu 

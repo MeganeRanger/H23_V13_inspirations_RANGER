@@ -42,6 +42,7 @@ Le fonctionnment du dispositf est de démontrer le parcours d'un Iceberg du nord
 [Vidéo explicative](https://youtu.be/evwQKQMVA3w)
 
 ## Mise en espace 
+![](https://github.com/MeganeRanger/H23_V13_inspirations_RANGER/blob/main/visite_individuelle_iceberg/media/iceberg_croquis.jpg)
 
 ## Composantes et techniques
 

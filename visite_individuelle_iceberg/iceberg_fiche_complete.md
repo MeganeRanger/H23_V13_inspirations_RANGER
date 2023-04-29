@@ -59,6 +59,8 @@ Pour les composantes techniques ils ont utilisées des caches-fil en métal pour
 ## Éléments nécessaires a la mise en exposition
 
 ## Expérience vécue
+![](media/iceberg_marche.jpeg)
+
 Les visiteurs sont simplement attendu à marcher dans l'exposition Iceberg du côter qu'il désire pour vivre une expérience hors du commun et coloré. Les visiteurs n'ont aucune interactiviter à faire avec l'oeuvre a pars marcher. 
 
 ## Ce qui ma plu 

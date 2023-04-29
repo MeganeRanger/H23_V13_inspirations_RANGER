@@ -18,6 +18,8 @@ Le 4 mars 2023
 Iceberg
 ![](media/iceberg_vue_ensemble.jpeg)
 
+[Source de l'image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fart_inthecity%2F8254301446&psig=AOvVaw0cPGojC3cZE2UqmBj0FxEh&ust=1682814981218000&source=images&cd=vfe&ved=0CA4QjRxqGAoTCKDR5rzszf4CFQAAAAAdAAAAABC6Ag)
+
 ## Nom de l'artiste ou de la firme 
 - Direction artistique, conception lumière et réalisation : Félix Dagenais et Louis-Xavier Gagnon-Lebrun 
 - Conception architecturale : APPAREIL architecture

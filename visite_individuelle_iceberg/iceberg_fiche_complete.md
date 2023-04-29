@@ -48,6 +48,7 @@ Le fonctionnment du dispositf est de démontrer le parcours d'un Iceberg du nord
 ## Éléments nécessaires a la mise en exposition
 
 ## Expérience vécue
+Les visiteurs sont simplement attendu à marcher dans l'exposition Iceberg du côter qu'il désire pour vivre une expérience hors du commun et coloré. Les visiteurs n'ont aucune interactiviter à faire avec l'oeuvre a pars marcher. 
 
 ## Ce qui ma plu 
 J'ai beaucoup apprécié l'expérience, mais se que je trouve vraiment intéressant ses la façon dont ils on interpréter la fonte d'une banquise avec de la lumière et des ambiances sonores différentes pour démontrer les étapes de la fonte de la banquise.

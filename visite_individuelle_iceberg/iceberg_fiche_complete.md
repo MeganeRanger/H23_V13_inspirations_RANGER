@@ -47,7 +47,7 @@ Le fonctionnment du dispositf est de démontrer le parcours d'un Iceberg du nord
 ## Mise en espace 
 ![](media/iceberg_croquis.jpg)
 
-Le dispositif est située à l'extérieur
+Le dispositif est située à l'extérieur.
 
 ## Composantes et techniques
 

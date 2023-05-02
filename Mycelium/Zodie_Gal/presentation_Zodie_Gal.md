@@ -21,4 +21,6 @@ Les images si dessus représente le travaille des étudiants en 3 ème année da
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
+L'image si dessus représente le schéma de l'installation prévue par l'étudiante en 3 ème année.
+
 

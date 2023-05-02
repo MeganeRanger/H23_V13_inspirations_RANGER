@@ -6,7 +6,7 @@
 ## Les créatrices de ce projet
 Florence Lapierre, Natacha abdallah, Tracy Gua, Maria Laura Coronel
 
-### Le lien avec le thême Mycélium 
+## Le lien avec le thême Mycélium 
 Le lien de ce projet en lien avec le thême de Mycelium est la nature et les animaux marins.
 
 # L'installation en cours dans le studio

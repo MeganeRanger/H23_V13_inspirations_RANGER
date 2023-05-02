@@ -22,6 +22,8 @@ Le lien de ce projet est la nature avec un aspect féerique.
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
+Les images si dessus représente le travaille des étudiants en 3 ème année dans le Grand studio. Les étudiants sont présentement en train de travailler sur leurs projets afin de régler des problèmes technique et de les mettre au point.
+
 # Le schéma de l'installation prévue 
 
 ![schema installation](media/schema_installation_02.png)

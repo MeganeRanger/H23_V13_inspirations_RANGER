@@ -41,4 +41,4 @@ Les images si dessus représente le travaille des étudiants en 3 ème année da
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
-Les images si dessus représente le schéma de l'installation prévue pour le projet de 3 ème année.
+Les images si dessus représente le schéma de l'installation prévue pour le projet des étudiants en 3 ème année.

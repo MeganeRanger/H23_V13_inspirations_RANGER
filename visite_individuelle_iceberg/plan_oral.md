@@ -38,3 +38,4 @@ Ce que je veux pas retenir ou faire autrement:
 
 
 # Conclusion
+Voici se qui conclu cette présentation je vous ai expliquer les informations importantes du dispositif, une présentation du dispositif, mon experience vecue, mon appréciation ainsi que le lien avec d'autres dispositif découverte cette session. Les dispositifs mon inspirer a me donner des idées pour des projets futurs par exemple comment intégrer des capteurs caché dans des éléments.

@@ -10,7 +10,7 @@ C'est une exposition permanente.
 12 avril 2023
 
 ## Titre de l'oeuvre ou du dispositif
-# Humain - Gêne
+Humain - Gêne
 
 ## Nom de l'artiste ou de la firme 
 Centre des Sciences de Montréal

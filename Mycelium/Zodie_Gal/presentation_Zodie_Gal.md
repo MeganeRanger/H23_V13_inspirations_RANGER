@@ -6,7 +6,7 @@
 # Le nom de la créatrice
 Abdanor Yara
 
-### Le lien avec le thême Mycélium
+## Le lien avec le thême Mycélium
 Le lien avec le thême Mycélium est l'aventure.
 
 # L'installation en cours dans le studio
@@ -14,7 +14,11 @@ Le lien avec le thême Mycélium est l'aventure.
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
+Les images si dessus représente le travaille des étudiants en 3 ème année dans le Grand studio. L'étudiante est présentement en train de travailler sur son projet afin de régler des problèmes techniques et de le mettre au point.
+
 # Le schéma de l'installation prévue
 ![schema installation](media/schema_installation.png)
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
+
+

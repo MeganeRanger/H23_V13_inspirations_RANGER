@@ -30,10 +30,12 @@ C'est une installation interactive.
 ## Fonction du dispositif multimédia
 
 ## Mise en espace 
+Le dispositif se retrouve dans l'espace d'exposition de "Humain" elle prend une petite partie de l'espace 
 
 ## Composantes et techniques
 
 ## Éléments nécessaires à la mise en exposition
+Pour la mise en exposition les fils sont caché en dessous du dispositif ainsi que les capteurs sont caché dans le bois. 
 
 ## Expériene vécue
 

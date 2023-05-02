@@ -33,3 +33,5 @@ Les images si dessus représente le travaille des étudiants en 3 ème année da
 ![schema installation](media/schema_installation_01.png)
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
+
+Les images si dessus représente le schéma de l'installation prévu pour le projet des étudiants de 3 ème année.

@@ -45,3 +45,8 @@ Les visiteurs sont attendues à se placer au milieu de la pièce ou se retrouve 
 ## Le lien avec le thême Mycélium 
 Le lien de ce projet en lien avec le thême de Mycelium est la nature et les animaux marins.
 
+## Ce qui vous a plu, vous a donné des idées
+Ce qui m'a plu de ce dispositif est la créativité des créatrices envers ce projet. Elle mon inspiré de faire un projet du même type en utilisant un thême différent pour mon projet de 3 ème année.
+
+## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+Selon moi j'aurais mis plus d'animaux marins en voies d'instinction pour donner une variété de choix. 

@@ -34,6 +34,7 @@ En utilisant des fiches avec des lignes de couleurs différentes vous devez trou
 Le dispositif se retrouve dans l'espace d'exposition de "Humain" elle prend une petite partie de l'espace 
 
 ## Composantes et techniques
+Puisque c'est une exposition permanente aucun voyagement est nécessaire.
 
 ## Éléments nécessaires à la mise en exposition
 Pour la mise en exposition les fils sont caché en dessous du dispositif ainsi que les capteurs sont caché dans le bois. 

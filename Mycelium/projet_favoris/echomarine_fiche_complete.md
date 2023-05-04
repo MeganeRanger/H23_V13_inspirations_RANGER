@@ -26,6 +26,8 @@ Echomarine, est un dispositif interactif qui représente les animaux marins en v
 C'est une installation intéractive.
 
 ## Fonction du dispositif
+<img src=media/tablette1_grand.jpeg width="100%>"
+
 Grâce à une tablette vous avez la description de chaque animaux marins et vous avez la possibiliter d'appuyer sur l'animaux de votre choix sur l'écran et par la suite l'animaux marins est projecter sur le mur qui vous donne 
 l'inpression d'être dans un aquarium. 
 

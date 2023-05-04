@@ -11,6 +11,7 @@ C'est une exposition temporaire qui ce situe à l'intérieur.
 Le nom de ce projet est Echomarine.
 
 ## Date de votre visite 
+Le 17 mars 2023
 
 ## Les créatrices de ce projet
 Florence Lapierre, Natacha abdallah, Tracy Gua, Maria Laura Coronel

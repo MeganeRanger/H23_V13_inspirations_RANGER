@@ -51,10 +51,9 @@ Les éléments nécessaires à la mise en exposition est simple, car tout est fa
 ## Expérience vécue
 <img src="media/interacteur_grand.jpeg" width="100%">
 
-Les visiteurs sont attendues à se placer au milieu de la pièce ou se retrouve la tablette. Il vous suffit tout simplment d'appuyer sur l'animaux marins de votre choix et l'animaux marins va se projecter sur les rideaux blanc et se déplacer tout au long des murs.
+[Source de l'image](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
-## Le lien avec le thême Mycélium 
-Le lien de ce projet en lien avec le thême de Mycelium est la nature et les animaux marins.
+Les visiteurs sont attendues à se placer au milieu de la pièce ou se retrouve la tablette. Il vous suffit tout simplment d'appuyer sur l'animaux marins de votre choix et l'animaux marins va se projecter sur les rideaux blanc et se déplacer tout au long des murs.
 
 ## Ce qui vous a plu, vous a donné des idées
 Ce qui m'a plu de ce dispositif est la créativité des créatrices envers ce projet. Elle mon inspiré de faire un projet du même type en utilisant un thême différent pour mon projet de 3 ème année.

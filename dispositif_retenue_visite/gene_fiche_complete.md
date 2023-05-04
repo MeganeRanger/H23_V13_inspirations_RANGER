@@ -14,6 +14,8 @@ C'est une exposition permanente.
 12 avril 2023
 
 ## Titre de l'oeuvre ou du dispositif
+<img src="media/filage_cache.jpg" width="100%">
+
 Humain - Gène
 
 ## Nom de l'artiste ou de la firme 

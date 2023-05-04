@@ -3,6 +3,8 @@
 ## Lieu de mise en exposition
 <img src="media/photo_groupe_centre_sciences.jpg" width="100%">
 
+Crédit Photo: Karine Lecuyer
+
 Centre des sciences de Montréal
 
 ## Type d'exposition 

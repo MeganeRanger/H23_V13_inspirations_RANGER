@@ -1,5 +1,5 @@
 # Mycélium - Echomarine
-
+<img src=/media/echo_fin_grand.jpeg>
 ## Lieu de mise en exposition 
 Collège Montmorency
 

@@ -1,6 +1,8 @@
-# Humain - Gêne 
+# Humain - Gène 
 
 ## Lieu de mise en exposition
+<img src="media/photo_groupe_centre_sciences.jpg" width="100%">
+
 Centre des sciences de Montréal
 
 ## Type d'exposition 
@@ -10,7 +12,7 @@ C'est une exposition permanente.
 12 avril 2023
 
 ## Titre de l'oeuvre ou du dispositif
-Humain - Gêne
+Humain - Gène
 
 ## Nom de l'artiste ou de la firme 
 Centre des Sciences de Montréal

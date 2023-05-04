@@ -41,6 +41,8 @@ Le dispositif se retrouve dans l'espace d'exposition de "Humain" elle prend une 
 Puisque c'est une exposition permanente aucun voyagement est nécessaire.
 
 ## Éléments nécessaires à la mise en exposition
+<img src="media/filage_cache.jpg" width="100%">
+
 Pour la mise en exposition les fils sont caché en dessous du dispositif ainsi que les capteurs sont caché dans le bois. 
 
 ## Expériene vécue

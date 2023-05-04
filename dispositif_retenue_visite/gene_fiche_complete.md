@@ -29,7 +29,7 @@ Vous êtes le résultat de millions de transformations. Vivez une expérience in
 [Source](https://www.centredessciencesdemontreal.com/exposition-permanente/humain)
 
 ## Type d'installation 
-C'est une installation interactive.
+C'est une installation interactive intérieur.
 
 ## Fonction du dispositif multimédia
 En utilisant des fiches avec des lignes de couleurs différentes vous devez trouvez la même combinaison sur le plateau. Lorsque vous trouvez la bonne combinaison un message apparaît sur l'écran noir en vous expliquant le lien des gênes avec l'être humain. 

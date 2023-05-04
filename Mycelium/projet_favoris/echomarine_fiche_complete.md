@@ -49,6 +49,8 @@ Pour ce dispositif, aucun voyagement est nécessaire.
 Les éléments nécessaires à la mise en exposition est simple, car tout est fait a partir d'un ordinateur qui est caché dans un petit espace dans le petit studio recouvert pas les rideaux noires. Par la suite, puisque les projecteurs sont déja installer dans le petit studio les fils sont très bien caché au plafond grâce à des cache fils en métal noir. 
 
 ## Expérience vécue
+<img src="media/interacteur_grand.jpeg" width="100%">
+
 Les visiteurs sont attendues à se placer au milieu de la pièce ou se retrouve la tablette. Il vous suffit tout simplment d'appuyer sur l'animaux marins de votre choix et l'animaux marins va se projecter sur les rideaux blanc et se déplacer tout au long des murs.
 
 ## Le lien avec le thême Mycélium 

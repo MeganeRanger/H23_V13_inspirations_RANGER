@@ -29,7 +29,7 @@ Le lien de se projet avec le thême Mycelium est la technologie ainsi que la nat
 Les images si dessus représente le travaille des étudiants en 3 ème année dans le Grand studio. Les étudiants sont présentement en train de travailler sur leurs projets afin de régler des problèmes technique et de les mettre au point.
 
 # Schéma de l'installation prévue
-![schema installation](media/schema_installation_01.png)
+<img src=media/schema_installation_01.png width="100%">
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 

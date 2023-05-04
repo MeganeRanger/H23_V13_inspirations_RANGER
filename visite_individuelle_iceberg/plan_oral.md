@@ -7,18 +7,22 @@ Je vais vous faire parvenir des éléments importants dont les informations du d
 ## Information du dispositif 
 
 - Titre: Iceberg
-- Nom de l'artiste:
+- Nom de la firme: 
+- Direction artistique, conception lumière et réalisation : Félix Dagenais et Louis-Xavier Gagnon-Lebrun
+- Conception architecturale: APPAREIL architecture
+- Conception sonore: Jean-Sébastien Côté
+- Conception des modules interactifs: Philippe Jean
 - Année de réalisation: 2010
-- Nom de l'exposition ou événement: 
-- Type exposition: 
-- Lieu de mise en exposition + info sur le lieu:
-- Date de visite: 
+- Nom de l'exposition ou événement: Luminothérapie Iceberg 
+- Type exposition: Temporaire revient chaque année 
+- Lieu de mise en exposition + info sur le lieu: Place des arts 
+- Date de visite: 4 mars 2023
 
 ## Présentation détaillée du dispositif
 
-- Description: 
-- Type d'installation:
-- Fonction: 
+- Description: Un parcours lumineux qui explique la fonte d'une banquise à l'aide d'effets sonore et de la lumière.
+- Type d'installation: Interactive
+- Fonction: Démonter la fonte d'une banquise 
 - Mise en espace: 
 - Composantes: 
 - Éléments: 
@@ -30,9 +34,9 @@ Je vais vous faire parvenir des éléments importants dont les informations du d
 - Geste a posé: 
 
 ## Appréciation critique et justifications 
-- Ce qui ma plu:
+- Ce qui ma plu: J'ai beaucoup apprécié l'expérience, mais se que je trouve vraiment intéressant ses la façon dont ils on interpréter la fonte d'une banquise avec de la lumière et des ambiances sonores différentes pour démontrer les étapes de la fonte de la banquise.
 - Donner des idées: 
-- Ce que je veux pas retenir ou faire autrement:
+- Ce que je veux pas retenir ou faire autrement: Je ferait en sorte que le parcous soit mieux dégagé, car avec l'accumulation de la neige nous avions peur de se cogner la tête sur le dispositif.
 
 ## Lien avec d'autres dispositif découverte cette session
 

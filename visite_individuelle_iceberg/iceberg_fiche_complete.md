@@ -1,5 +1,5 @@
 # Luminothérapie - Iceberg
-![photo](media/iceberg-c-martine-doyon-pqds-2-670x450.jpeg)
+<img src=media/iceberg-c-martine-doyon-pqds-2-670x450.jpeg width="100%">
 
 [Photo](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/#): Martine Doyon
 

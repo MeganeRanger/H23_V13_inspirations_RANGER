@@ -33,11 +33,11 @@ Les images si dessus représente le travaille des étudiants en 3 ème année da
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
-![schema installation](media/schema_installation_03.png)
+<img src=media/schema_installation_03.png width="100%">
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
-![schema installation](media/schema_installtion_02.png)
+<img src=media/schema_installtion_02.png width="100%">
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 

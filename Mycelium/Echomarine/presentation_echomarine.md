@@ -11,11 +11,11 @@ Le lien de ce projet en lien avec le thême de Mycelium est la nature et les ani
 
 # L'installation en cours dans le studio
 
-![installation en cours](media/installation_en_cours_01.png)
+<img src=media/installation_en_cours_01.png width="100%">
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
-![installation en cours](media/installation_en_cours_02.png)
+<img src=media/installation_en_cours_02.png width="100%">
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 

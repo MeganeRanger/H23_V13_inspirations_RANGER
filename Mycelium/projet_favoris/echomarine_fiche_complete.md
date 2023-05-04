@@ -1,7 +1,4 @@
 # Mycélium - Echomarine
-![banniere photo](media/echomarine_banniere_page_projet.jpeg)
-
-[Source de l'image](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
 ## Lieu de mise en exposition 
 Collège Montmorency

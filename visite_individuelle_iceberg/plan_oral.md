@@ -23,15 +23,15 @@ Je vais vous faire parvenir des éléments importants dont les informations du d
 - Description: Un parcours lumineux qui explique la fonte d'une banquise à l'aide d'effets sonore et de la lumière.
 - Type d'installation: Interactive
 - Fonction: Démonter la fonte d'une banquise 
-- Mise en espace: 
-- Composantes: 
+- Mise en espace: Extérieur 
+- Composantes: les fils sont cachés par des boîtes de métal 
 - Éléments: 
 
 ## Expérience vécue 
 
-- Description expérience: 
-- Interactivité dispositif: 
-- Geste a posé: 
+- Description expérience: une expérience lumineuse et plaisante 
+- Interactivité dispositif: il sufit justement de marcher
+- Geste a posé: la marche
 
 ## Appréciation critique et justifications 
 - Ce qui ma plu: J'ai beaucoup apprécié l'expérience, mais se que je trouve vraiment intéressant ses la façon dont ils on interpréter la fonte d'une banquise avec de la lumière et des ambiances sonores différentes pour démontrer les étapes de la fonte de la banquise.
@@ -39,7 +39,7 @@ Je vais vous faire parvenir des éléments importants dont les informations du d
 - Ce que je veux pas retenir ou faire autrement: Je ferait en sorte que le parcous soit mieux dégagé, car avec l'accumulation de la neige nous avions peur de se cogner la tête sur le dispositif.
 
 ## Lien avec d'autres dispositif découverte cette session
-
+Iceberg est similaire au autres dispositifs que nous avons vue cette session c'est un dispositif du multimédia elle est interactive il y a des effets sonores et lumineux comme les autres dispositifs que nous avons vue et elle a tout les critères pour un projet du multimédia.
 
 # Conclusion
 Voici se qui conclu cette présentation je vous ai expliquer les informations importantes du dispositif, une présentation du dispositif, mon experience vecue, mon appréciation ainsi que le lien avec d'autres dispositif découverte cette session. Les dispositifs mon inspirer a me donner des idées pour des projets futurs par exemple comment intégrer des capteurs caché dans des éléments.

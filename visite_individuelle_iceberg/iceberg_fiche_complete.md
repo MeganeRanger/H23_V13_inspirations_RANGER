@@ -37,7 +37,7 @@ Les notes et la lumière produites voyagent d’un bout à l’autre de ce corri
 [Article](https://www.quartierdesspectacles.com/fr/a-propos/les-productions-du-partenariat/oeuvre/20/iceberg-par-appareil-architecture/#)
 
 ## Type d'installation 
-C'est une installation interactive.
+C'est une installation interactive extérieure.
 
 ## Fonction du dispositif multimédia
 Le fonctionnment du dispositf est de démontrer le parcours d'un Iceberg du nord vers le sud de la banquise jusqu'à la fonte complète près de la terre ferme en le représentant avec des ambiances sonores différentes. Losrque les visiteurs marche dans le parcours les lumières ainsi que l'ambiance sonore se différencie selon l'étape de la fonte de la banquise.

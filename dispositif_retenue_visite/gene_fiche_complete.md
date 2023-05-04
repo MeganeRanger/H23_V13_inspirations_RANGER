@@ -44,6 +44,8 @@ Puisque c'est une exposition permanente aucun voyagement est nécessaire.
 Pour la mise en exposition les fils sont caché en dessous du dispositif ainsi que les capteurs sont caché dans le bois. 
 
 ## Expériene vécue
+<img src="media/humain_gene_02.jpg" width="100%">
+
 Les visiteurs sont attendu à se placer devant le dispositif et vous devez utilisé les fiches disposer dans un cube à votre gauche. Sur les fiches, il y a une banderole ligné coloré et vous devez trouvé la correspondance des lignes sur la surface du plateau devant vous. Pour savoir si vous avez trouvez la bonne correspondance, un texte devrait apparaître sur l'écran noire devant vous.
 
 ## Ce qui vous a plu, vous a donné des idées

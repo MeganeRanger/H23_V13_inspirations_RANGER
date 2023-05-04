@@ -10,7 +10,7 @@ Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 Le lien de ce projet est la nature avec un aspect féerique. 
 
 # L'installation en cours dans le studio 
-![installation en cours]<img src=media/installation_en_cours_01.png width="50%">
+<img src=media/installation_en_cours_01.png width="100%">
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 

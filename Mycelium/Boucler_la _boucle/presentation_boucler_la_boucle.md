@@ -30,7 +30,7 @@ Les images si dessus représente le travaille des étudiants en 3 ème année da
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
-<img src=media/schema_installation_01.png width="100%">
+<img src=media/schema_installation_01.png width="150%">
 
 [Source de l'image](https://tim-montmorency.com/2023/projets/Nexum/docs/web/index.html)
 
